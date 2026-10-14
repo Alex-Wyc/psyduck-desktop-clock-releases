@@ -1,2 +1,13 @@
-# psyduck-desktop-clock-releases
-Public binary releases for Psyduck Desktop Clock; source is maintained privately.
+# 可达鸭桌面时钟 · 正式版下载
+
+Windows 透明悬浮倒计时时钟，包含五种可切换形象、自定义倒计时和语句、四边自动收起与整点提醒。
+
+[下载最新正式版](https://github.com/Alex-Wyc/psyduck-desktop-clock-releases/releases/latest)
+
+下载 `psyduck-desktop-clock.exe`，放在可写的文件夹中双击运行。需要 Windows 和 .NET Framework 4.8。
+
+右键形象或托盘图标可打开“设置”“检查更新”或“退出”。仅在点击“检查更新”时联网；发现新版后可查看更新说明并点击“立即更新”。下载时可取消，校验通过后原位替换并重新启动，失败时恢复旧版。
+
+个人设置保存在程序旁的 `clock-settings.xml`，更新会保留。请保持程序路径不变，特别是在启用开机启动时。
+
+此公开仓库只发布程序、SHA256校验文件和更新说明，不包含个人设置或源码。程序素材均嵌入可执行文件。校验值用于核对发布文件完整性。

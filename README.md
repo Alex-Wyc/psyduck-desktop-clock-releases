@@ -1,6 +1,6 @@
 # 可达鸭桌面时钟 · 正式版下载
 
-Windows 透明悬浮倒计时时钟，包含五种可切换形象、自定义倒计时和语句、四边自动收起与整点提醒。
+Windows 透明悬浮倒计时时钟，包含六种可切换形象、自定义倒计时和语句、四边自动收起及可自定义时间与事项的提醒。
 
 [下载最新正式版](https://github.com/Alex-Wyc/psyduck-desktop-clock-releases/releases/latest)
 
